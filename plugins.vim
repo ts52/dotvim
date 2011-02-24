@@ -1,10 +1,3 @@
-" showmarks
-let g:showmarks_enable = 0 " disabled by default by populardemand ;)
-hi! link ShowMarksHLl LineNr
-hi! link ShowMarksHLu LineNr
-hi! link ShowMarksHLo LineNr
-hi! link ShowMarksHLm LineNr
-
 " syntastic
 let g:syntastic_enable_signs=1
 let g:syntastic_auto_loc_list=1
