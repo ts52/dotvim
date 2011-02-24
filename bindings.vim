@@ -27,3 +27,6 @@ nmap <leader>n :cn<CR>
 
 "set completeopt=menuone,preview,longest
 set completeopt=menuone,preview
+" F5 for Gundo Toggle
+nnoremap <F5> :GundoToggle<CR>
+
